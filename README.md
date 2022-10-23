@@ -1,4 +1,4 @@
-![This is an image](/bloodalibi_head.png)
+<img src="https://github.com/BloodAlibi/BloodAlibi/blob/main/bloodalibi_header.png" width=50% height=50%>
 
 ## Hi, I'm BloodAlibi.
 
