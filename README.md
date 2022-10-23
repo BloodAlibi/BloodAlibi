@@ -1,4 +1,4 @@
-![This is an image](bloodalibi_head.png)
+![This is an image](/bloodalibi_head.png)
 
 ## Hi, I'm BloodAlibi.
 
