@@ -1,4 +1,4 @@
-<img src="https://github.com/BloodAlibi/BloodAlibi/blob/main/brand_ba.png" width=50% height=50%>
+<img src="https://github.com/BloodAlibi/BloodAlibi/blob/main/brand_bloodalibi.png" width=50% height=50%>
 
 # Hi, I'm BloodAlibi.
 
