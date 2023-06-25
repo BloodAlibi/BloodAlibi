@@ -4,7 +4,7 @@
 
 #### Welcome to my public GitHub profile page!
 
-I am a french game developer. I do not have a specific skill. I do a bit of everything, and that is enough to make games alone. I am the owner and developer of [Tkium](https://www.tkium.com). If you wish to check my projects, feel free to visit my public profile [here](https://www.bloodalibi.com).
+I am a game developer. I do not have a specific skill. I do a bit of everything, and that is enough to make games alone. I am the owner and developer of [Tkium](https://www.tkium.com). If you wish to check my projects, feel free to visit my public profile [here](https://www.bloodalibi.com).
 
 For 3 years, I have been a small Roleplay game developer. I could learn the basics of game development and how to code in LUA. This helped me a lot starting with new engines and other languages, such as C# or Python.
 
